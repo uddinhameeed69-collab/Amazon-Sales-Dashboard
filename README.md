@@ -1,35 +1,35 @@
-# # Amazon Sales Dashboard
+# Amazon Prime Video Dashboard 📊
 
-## Project Overview
+## 📌 Project Overview
+This project is an interactive Power BI dashboard based on Amazon Prime Video dataset. It provides insights into movies and TV shows available on Amazon Prime Video.
 
-This Power BI dashboard analyzes Amazon sales data to uncover revenue trends, product performance, customer insights, and business KPIs.
+## 🎯 Objectives
+- Analyze content available on Amazon Prime Video
+- Understand distribution of Movies vs TV Shows
+- Identify ratings, genres, and release trends
+- Visualize data using Power BI dashboard
 
-## Tools Used
+## 📊 Key Insights
+- Total number of Movies and TV Shows
+- Ratings distribution (18+, PG, etc.)
+- Genre-wise analysis
+- Country-wise content distribution
+- Release year trends
 
-* Power BI
-* Excel
-* Data Visualization
+## 🛠️ Tools Used
+- Power BI
+- Excel / CSV dataset
+- Data Cleaning & Transformation
 
-## Dashboard Features
+## 📷 Dashboard Preview
+(Add screenshot here)
 
-* Total Sales KPI
-* Revenue Analysis
-* Product Category Performance
-* Customer Insights
-* Interactive Filters
-* Trend Analysis
+## 🔗 Project Files
+- Power BI Dashboard file (.pbix)
+- Dataset file
 
-## Key Insights
-
-* Identified top-performing product categories
-* Analyzed sales trends over time
-* Monitored business KPIs through interactive visualizations
-
-## Skills Demonstrated
-
-* Data Visualization
-* Dashboard Development
-* Business Intelligence
+## 👨‍💻 Author
+Md Hameed Uddin
 * KPI Tracking
 * Data Analysis
 
